@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     API_ID: int
     API_HASH: str
 
-    REF_ID: str = '00005UEJ'
+    REF_ID: str = '0000rf72'
     
     FAKE_USERAGENT: bool = True
     AUTO_PLAY_GAME: bool = True
